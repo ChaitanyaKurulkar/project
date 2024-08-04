@@ -1,0 +1,11 @@
+export const API_BASE_URL = process.env.REACT_APP_API_KEY
+export const DELETE_MESSAGE = 'Are you sure you want to delete the record?'
+export const UPDATE_MESSAGE = 'Are you sure you want to update the record?'
+export const CONFIRM_BUTTON_TEXT = 'Yes'
+export const CANCLE_BUTTON_TEXT = 'No'
+export const CONFIRM_BUTTON_COLOR = '#50cd89'
+export const CANCLE_BUTTON_COLOR = '#F64E60'
+export const EDIT_ROW_COLORS = 'bg-secondary'
+export const Created = 'Created'
+export const In_Progress = 'In Progress'
+export const Completed = 'Completed'
